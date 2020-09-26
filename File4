@@ -1,3 +1,4 @@
+
   <!doctype html>
 <html>
  <head></head> 
@@ -26,8 +27,7 @@
  </body>
 </html>
 
-
-    body {
+  body {
  
   background-color: lightblue;
 
@@ -56,5 +56,5 @@
   
 }
 .marque{
-  marque direction class : "left";
+  marque direction class : "right";
 }
