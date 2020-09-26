@@ -56,5 +56,5 @@
   
 }
 .marque{
-  marque direction class : "right";
+  marque direction class : "left";
 }
